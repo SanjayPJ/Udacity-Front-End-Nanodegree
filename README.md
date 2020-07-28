@@ -7,6 +7,17 @@ This repository contains project work and class assignments for Udacity's Front-
 
 * Learned the fundamentals of how the web works and gain a working knowledge of the three foundational languages that power each and every website: HTML, CSS and JavaScript.
 
+## Credits
+
+* Complete projects with notes (Where I forked this repo)
+	- https://github.com/kishorchouhan/Udacity-Front-End-Nanodegree
+* Complete projects with exercise files
+	- https://github.com/AleksCreative/Udacity-Front-End-Nanodegree-projects
+* Complete projects
+	- https://github.com/quachngocxuan/udacity-front-end-web-developer-nanodegree
+	- https://github.com/heavymossman/Udacity-Front-End-Web-Developer-Nanodegree
+	- https://github.com/allanbreyes/udacity-front-end
+
 ### Courses and corresponding projects I developed in this nano degree:
 > **_Instruction for course 1, 4 and 6:_** If you are going to do this course using below links then ensure that in your classroom link there should be the same course code which is mentioned below. If you don't find it the same then enter it manually.
 
