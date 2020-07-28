@@ -1,11 +1,74 @@
 # Udacity Front-End Web Developer Nanodegree
 This repository contains project work and class assignments for Udacity's Front-End Web Developer Nanodegree.
 
+- [Udacity Front-End Web Developer Nanodegree](#udacity-front-end-web-developer-nanodegree)
+	- [Strategy for completing the course](#strategy-for-completing-the-course)
+	- [What I have done and achieved in this nano degree:](#what-i-have-done-and-achieved-in-this-nano-degree)
+	- [Description](#description)
+	- [Syllabus](#syllabus)
+	- [Credits](#credits)
+		- [Courses and corresponding projects I developed in this nano degree:](#courses-and-corresponding-projects-i-developed-in-this-nano-degree)
+	- [About the Front-End Web Developer Nanodegree](#about-the-front-end-web-developer-nanodegree)
+	- [README ref: https://github.com/br3ndonland/udacity-fsnd/blob/master/README.md](#readme-ref-httpsgithubcombr3ndonlandudacity-fsndblobmasterreadmemd)
+
+## Strategy for completing the course
+
+* Use [Strategy for projects and lessons](https://github.com/br3ndonland/udacity-fsnd#strategies)
+
 ## What I have done and achieved in this nano degree:
 
 * Mastered the skills required to become a Front-End Web Developer, and started building beautiful, responsive websites optimized for mobile and desktop performance.
 
 * Learned the fundamentals of how the web works and gain a working knowledge of the three foundational languages that power each and every website: HTML, CSS and JavaScript.
+
+
+## Description
+
+This is a repository for [NANODEGREE PROGRAM - Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) course notes and materials. The full program description and syllabus can be found on the [udacity website](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) or in [this repo](Front+End+Web+Dev+-+nd0011+-+syllabus_2.pdf)
+
+In this program, I built skills including:
+
+- CSS & Website Layout
+	- how to effectively create the structure of a website using semantic HTML
+	- Style website using css
+	- Responsive layouts
+	- Different use cases for CSS Grid and Flexbox 
+	- Structure layout of a web page using grid columns and rows
+- JavaScript and the DOM
+	- Use JavaScript to control a webpage
+	- Learn what the Document Object Model (DOM)
+	- use JavaScript and the DOM to dictate page content and interactions
+	- Gain experience working with Browser Events
+	- managing website performance by controlling content creation efficiently
+- Web APIs and Asynchronous Applications
+	- Set up a Node and Express environment so you can develop web applications on your local machine
+	- learn to handle HTTP Requests & Routes
+	- Update and modify website elements dynamically using asynchronously retrieved data.
+- Build Tools, Webpack, and Service Worker
+	- Develop an understanding of how to use build tools
+	- Webpack for automating build tasks. Create CSS variables with Sass and configure Webpack to use Sass controlled stylesheets.
+	- Learn how to cache server data and website functionality using Service Worker.
+
+
+## Syllabus
+
+- Part 01 : Web Foundations
+- Part 02 : Responsive Websites
+- Part 03 : JavaScript Foundations
+- Part 04 : Intermediate JavaScript
+- Part 05 : Advanced Interactive Websites
+- Part 06 (Elective): Webcasts
+- Part 07 (Career): Career: Job Search Strategies
+- Part 08 (Career): Career: Networking
+- Part 09 (Career): Career: Front-End Interview Practice
+- Part 10 (Elective): How to Use Git and GitHub
+- Part 11 (Elective): (Optional) Project: Health Tracker
+
+Front End Web Developer Nanodegree program is focused on projects, in which students can independently implement what they have learned in the lessons. 
+
+**Uploaded all the files I have been working with in this github repository and each project in its own repository.**
+
+1. [demo-project](demo-link.md)
 
 ## Credits
 
@@ -107,3 +170,6 @@ Resources include the following relevant links:
 [Workshop Video](https://www.youtube.com/watch?feature=player_embedded&v=1QJUSvDjB5Y)  
 [Related Slides to the video](https://docs.google.com/presentation/d/15oF6wvGuonnF7qeVkKQVaKEh7bqVfUFfgd2A6yB4rMU/pub?start=false&loop=false&delayms=3000)  
 [Prep materials](https://docs.google.com/document/d/15ODj7A5ye3eGKcX4epDzd0kfcLr69nZQFTAxEIArb2c/edit)  
+
+## README ref: https://github.com/br3ndonland/udacity-fsnd/blob/master/README.md
+

@@ -1,0 +1,10 @@
+- Part 02 : Responsive Websites
+	- The box model
+	- Semantic elements
+	- Problem set for box model and semantic elements
+	- Positioning
+	- Floats and clearfix
+	- z-index (x,y,z axis)
+	- code writing workflow (Code, Test, Refine, Repeat)
+	- CSS Frameworks, responsive layouts
+	- Bootstrap and other frameworks
